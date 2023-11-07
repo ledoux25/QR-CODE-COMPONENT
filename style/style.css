@@ -45,7 +45,7 @@ img {
 }
 
 .text-section {
-  margin: 0 8%;
+  margin: 0 20px;
 }
 
 p {
@@ -56,4 +56,5 @@ p {
 h3 {
   font-size: 20px;
   font-weight: 700;
+  color: 218, 44%, 22%;
 }/*# sourceMappingURL=style.css.map */
